@@ -1,4 +1,4 @@
-# Major Group Project 1 (2D) - Mushroom Vengeance
+Mushroom Vengeance
 
 Slice up mushroom beasts: https://shawnyama.itch.io/mushroom-vengeance
 
